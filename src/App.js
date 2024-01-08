@@ -13,7 +13,7 @@ function App() {
       width: '18rem'
     }}
   >
-    <CardHeader tag="h3">
+    <CardHeader tag="h5">
       MTTA
     </CardHeader>
     <CardBody>
